@@ -1,1 +1,1 @@
-# Simple Chat-Server coded in Rustlang
+* Simple Chat-Server coded in Rustlang
